@@ -1,0 +1,24 @@
+{
+  "name": "todo_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maniarasan/todo_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maniarasan/todo_repo/issues"
+  },
+  "homepage": "https://github.com/Maniarasan/todo_repo#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "lodash": "^4.3.0",
+    "mongoose": "^4.4.3"
+  }
+}
